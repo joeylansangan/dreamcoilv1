@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
     return (
-        <div className='flex flex-row p-4 text-gray-300 items-center justify-between'>
+        <div className='bg-dc_blue flex flex-row p-4 text-gray-300 items-center justify-between'>
             <div className='flex items-center justify-center'>
                 <img src="./assets/icons/logo-white.png" alt="logo" height={56} width={56}/>
                 {/* <h2 className='text-white uppercase'>DREAMCOIL</h2> */}
